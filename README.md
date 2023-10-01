@@ -2,6 +2,7 @@
 Analytics dashboard in Excel for Vrinda Store
 
 OBJECTIVE:
+
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
 
 KPI's:
@@ -30,6 +31,7 @@ PROJECT INSIGHTS:
 4. The maximum number of products customer orders from Amazon, Flipkart, and Myntra channels.
 
 FINAL CONCLUSION:
+
 To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 
