@@ -21,4 +21,6 @@ PROCESS:
 4. Integrate all pivot tables into a unified dashboard, enhancing its interactivity and dynamism by implementing slicers.
 
 DASHBOARD:
+![EXCEL DASHBOARD](https://github.com/saumyasinghcs/Analytics-Dashboard/assets/114850422/5b79d9a0-a39e-4736-bddd-c1159b4a98f3)
+
 
