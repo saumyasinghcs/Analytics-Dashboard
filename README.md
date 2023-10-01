@@ -23,4 +23,13 @@ PROCESS:
 DASHBOARD:
 ![EXCEL DASHBOARD](https://github.com/saumyasinghcs/Analytics-Dashboard/assets/114850422/5b79d9a0-a39e-4736-bddd-c1159b4a98f3)
 
+PROJECT INSIGHTS:
+1. Women customers are more likely to buy products compared to men (~65%).
+2. The states of Maharashtra, Karnataka, and Uttar Pradesh are the top 3 product buyers.
+3. The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+4. The maximum number of products customer orders from Amazon, Flipkart, and Myntra channels.
+
+FINAL CONCLUSION:
+To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
 
